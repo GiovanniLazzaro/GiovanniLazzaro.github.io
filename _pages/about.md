@@ -28,4 +28,4 @@ My work sits at the intersection of clinical neurophysiology, cognitive neurosci
 
 ## Contact
 
-Feel free to reach out at **giovanni.lazzaro@hsancamillo.it** or ** giovannilazzaor94@gmail.com** for collaborations, questions, or just a chat about neuroscience (or if you want to plan an hiking on Dolomites!).
+Feel free to reach out at **giovanni.lazzaro@hsancamillo.it** or ** giovannilazzaor94@gmail.com** for collaborations, questions, or just a chat about neuroscience (or to plan a hike in the Dolomites!).
