@@ -15,7 +15,7 @@ My work sits at the intersection of clinical neurophysiology, cognitive neurosci
 ## Research Interests
 
 - **Neurophysiology** — LFP and EEG/MEG signal processing and analysis
-- **Cognitive and Clinical Neuroscience** — 
+- **Cognitive and Clinical Neuroscience** — Focus on Beta Burst and Parkinson's Disease
 - **Neuromodulation** — non-invasive brain stimulation techniques (TMS, tDCS, tACS)
 - **Clinical Applications of Brain Stimulation** 
 
