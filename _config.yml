@@ -11,7 +11,7 @@ repository               : "GiovanniLazzaro/GiovanniLazzaro.github.io"
 # Site Author
 author:
   name             : "Giovanni Lazzaro"
-  avatar           : "images/profile.jpg"
+  avatar           : "/images/profile.jpg"
   bio              : "Turning coffee into clinical data & Syntax Errors. Clinical Neurophysiologist Technician · Neuroscience PhD @ UniPD · Research Assistant at S.Camillo IRCCS, Venice."
   location         : "Venice, Padova, Italy"
   employer         : "IRCCS San Camillo - University of Padova"
